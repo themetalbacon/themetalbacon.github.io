@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: About
+  url: /
+
+- title: Projects
+  url: /projects/
+
+- title: Music
+  url: /music/
+
+- title: Credits
+  url: /credits/
