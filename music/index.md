@@ -13,6 +13,7 @@ I wrote this for a friend, to use in a game he created, called Ensquare. Ensquar
 The first track one, mainmenuloop2, was one of the earlier versions of the song - you can hear some notes that are painfully offbeat >_>. But I actually prefer this to the final version.
 
 The second track, mainmenu5, was the song that was used in the game. I fixed the timing issues, and took away the claps and moved the main melody down by one octave. I really like the claps, because I feel like they add an extra dimension to the song - it sounds catchier to me, at least - but in the end I decided they didn't sound appropriate as part of a main menu song. I have no idea why moved the melody down by an octave though. I think it sounds better an octave higher. Why did I do that...?
+
 <div id="cp_widget_241e037a-f90f-4830-b384-2770cf1a3888">...</div><script type="text/javascript">
 var cpo = []; cpo["_object"] ="cp_widget_241e037a-f90f-4830-b384-2770cf1a3888"; cpo["_fid"] = "AQIA48sjaT7D";
 var _cpmp = _cpmp || []; _cpmp.push(cpo);
