@@ -1,7 +1,8 @@
 ---
 layout: page
 title: SMAC Project
-cover-image: greenbacon.png
+image: 
+  feature: greenbacon.png
 ---
 ## Description ##
 The [SMAC Project](http://www.smacproject.org/) is a project that aims to interest children in programming. It is designed to be  requiring only 3 things: a monitor, a raspberry pi, and a robotic toolkit. 
