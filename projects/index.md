@@ -34,3 +34,21 @@ image:
         <br>A robot that cuts ham!
     </figcaption>
 </figure>
+<figure>
+	<a href="/projects/smac/">
+		<img src="/images/stormlab.png">
+    </a>
+    <figcaption>
+    	<strong>SMAC Project</strong>
+        <br>A modular robotic toolkit for engaging kids into science, technology, engineering and mathematics.
+    </figcaption>
+</figure>
+<figure>
+	<a href="/projects/dungeon/">
+		<img src="/images/dungeon.png">
+    </a>
+    <figcaption>
+    	<strong>Cubey's Dungeon</strong>
+        <br>A multiplayer game made with a variety of technologies.
+    </figcaption>
+</figure>
